@@ -3,7 +3,13 @@
 *.ko
 *.obj
 *.elf
-
+# Project Files
+*.cbp
+*.depend
+*.layout
+# Build Results
+/*/bin/
+/*/obj/
 # Precompiled Headers
 *.gch
 *.pch
@@ -30,3 +36,4 @@
 
 # Debug files
 *.dSYM/
+
