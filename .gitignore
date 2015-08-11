@@ -8,8 +8,8 @@
 *.depend
 *.layout
 # Build Results
-/*/bin/
-/*/obj/
+*/bin/
+*/obj/
 # Precompiled Headers
 *.gch
 *.pch
